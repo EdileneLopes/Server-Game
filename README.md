@@ -2,8 +2,10 @@
  
 🎮 
 
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/60043558/94991366-0f308b80-0559-11eb-9074-8e46bf251167.jpg" widht = "30%"
+</p>
 
-[![controle](C:\Users\Edi&Steve\Desktop\generos-de-games)](https://github.com/EdileneLopes/Server-Game)]
 
 
 ###  Projeto feito em aula na {Reprograma}.
