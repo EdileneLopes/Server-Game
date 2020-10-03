@@ -1,9 +1,9 @@
 #  Api de jogos
  
-🎮 
+
 
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/60043558/94991366-0f308b80-0559-11eb-9074-8e46bf251167.jpg" widht = "30%"
+<img src = "https://user-images.githubusercontent.com/60043558/94991366-0f308b80-0559-11eb-9074-8e46bf251167.jpg" widht = "15%"
 </p>
 
 
